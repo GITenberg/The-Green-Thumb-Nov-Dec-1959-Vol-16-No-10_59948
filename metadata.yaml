@@ -1,0 +1,26 @@
+_repo: The-Green-Thumb-Nov-Dec-1959-Vol-16-No-10_59948
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colorado Forestry and Horticultural Association
+    alias: Association, Colorado Forestry and Horticultural
+    gutenberg_agent_id: '50706'
+    url: http://www.gutenberg.org/2009/agents/50706
+description: ''
+gutenberg_issued: '2019-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Gardening -- Periodicals'
+- !lcsh 'Gardening -- ​Colorado -- ​Periodicals'
+- !lcsh 'Forests and forestry -- Periodicals'
+- !lcsh 'Forests and forestry -- Colorado -- Periodicals'
+- GITenberg
+title: The Green Thumb, Nov.-Dec. 1959, Vol. 16, No. 10
+url: http://www.gutenberg.org/ebooks/59948
