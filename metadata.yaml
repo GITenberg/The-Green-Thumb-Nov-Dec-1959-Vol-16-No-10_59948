@@ -1,5 +1,8 @@
 _repo: The-Green-Thumb-Nov-Dec-1959-Vol-16-No-10_59948
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59948-h/images/cover.jpg
 creator:
   author:
     agent_name: Colorado Forestry and Horticultural Association
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '50706'
     url: http://www.gutenberg.org/2009/agents/50706
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59948#The-Green-Thumb-Nov-Dec-1959-Vol-16-No-10
 gutenberg_issued: '2019-07-19'
 gutenberg_type: Text
 identifiers:
